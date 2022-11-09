@@ -44,7 +44,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"marketplace-of-ideas.json#entry-from-bookstore"
+                 "value":"storytelling.json#entry-from-bookstore"
                 }],
          "type":"tilelayer",
          "visible":true,
